@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm Bintang Satria Mulya Budi from Malang East Java Indonesia, you can call me Bintang.I'm a studen from SMK Telkom Malang and I'm passionate about learning new things, especially in the world of technology. I'm currently focusing on expanding my knowledge of mobile development with Kotlin, Flutter, and Dart.<br><br>- 🔭 I’m working as student at SMK Telkom Malang<br>- 📚 I'm currently learning Kotlin, Flutter and Dart, Editing<br>- ⚡ In my free time, I enjoy editing and coding.<br>- 😄 Pronouns: He/Him<br>- ✉️ bintangsatriamulya88@gmail.com</p>
+<p align="left">I'm Bintang Satria Mulya Budi from Malang East Java Indonesia, you can call me Bintang.I'm a student from SMK Telkom Malang and I'm passionate about learning new things, especially in the world of technology. I'm currently focusing on expanding my knowledge of mobile development with Kotlin, Flutter, and Dart.<br><br>- 🔭 I’m student at SMK Telkom Malang<br>- 📚 I'm currently learning Kotlin, Flutter and Dart, Editing<br>- ⚡ In my free time, I enjoy editing and coding.<br>- 😄 Pronouns: He/Him<br>- ✉️ bintangsatriamulya88@gmail.com</p>
 
 ###
 
